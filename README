@@ -1,0 +1,14 @@
+
+Andrew Gray <agray@alumni.uwaterloo.ca>
+
+* A malloc tracker (malloc_track)
+
+* A relatively generalized hash table (which gw_malloc uses). 
+
+* A semaphore implementation (sem.h).
+
+* A read-write lock (multiple readers allowed, single writer)
+  implementation (rwlock.h).
+
+This is all pthreads based.
+
